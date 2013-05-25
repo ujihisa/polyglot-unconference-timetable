@@ -35,6 +35,15 @@
     <td>go + cdr5mil</td>
     <td>increase your salary</td>
   </tr>
+  <tr>
+    <th>2pm</td>
+    <td>web vs native</td>
+    <td>machine learning</td>
+    <td>langauges libraries</td>
+    <td>writing code the future</td>
+    <td>change management</td>
+    <td>game engines</td>
+  </tr>
 </table>
 
 [pullreqs](https://github.com/ujihisa/polyglot-unconference-timetable/edit/master/README.md) welcome!
